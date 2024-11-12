@@ -7,7 +7,7 @@ It was created for fun and added in GitHub nothing serious (I WAS BORED)
 ## Screenshots
 - Actual Site:
 
-![Actual Site](https://github.com/user-attachments/assets/99dde8e9-93ac-4d8d-872e-d42207f33fb7)
+![Actual Site](https://github.com/user-attachments/assets/e6bef40b-363e-456a-9162-357398233a41)
 ![Footer Screenshot](https://github.com/user-attachments/assets/e38d7fd4-c5a4-4175-ba98-2c9b1c954582)
 
 - Site Created:
