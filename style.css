@@ -184,3 +184,88 @@
     height: 400px;
     background-size: cover;
 }
+
+/* Shop sections */
+.shop-sections{
+    background-color: #626267;
+    height: 1000px;
+}
+
+.shop-section1{
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: -9vh;
+}
+
+.shop-box{
+    height: 60vh;
+    width: 20%;
+    background-color: white;
+    padding: 20px;
+}
+
+.shop-section2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+/* FOOTER */
+
+.foot{
+    text-decoration: none;
+}
+.foot-top{
+    background-color: #232F3E;
+    height: 50px;
+    color: white;
+    font-weight: 500;
+    font-size: 1.2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foot-top:hover{
+    opacity: 89%;
+}
+
+.main-footer{
+    height: 200px;
+    background-color: #131921;    
+}
+
+.footer{
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer1 h1{
+    font-size: 20px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+.footer1 a{
+    text-decoration: none;
+    color: white;
+}
+.footer1 a:hover{
+    text-decoration: underline;
+}
+
+.git{
+    display: flex;
+}
+
+.git h2{
+    padding-left: 10px;
+    font-size: 16px;
+}
+
+.linkedin{
+    display: flex;
+    margin-top: 2px;
+}
